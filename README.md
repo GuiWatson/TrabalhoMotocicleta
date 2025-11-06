@@ -1,5 +1,5 @@
 # Engenharia da Motocicleta 🏍️
-Clone do [Prof. Fábio Magnani ](https://github.com/Prof-Magnani/engenharia-motocicleta) para execução da atividade avaliativa.
+Clone do [Prof. Fábio Magnani](https://github.com/Prof-Magnani/engenharia-motocicleta) para execução da atividade avaliativa.
 
 
 ## Descrição da Disciplina  
