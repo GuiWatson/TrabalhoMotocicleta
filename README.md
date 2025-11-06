@@ -1,4 +1,6 @@
 # Engenharia da Motocicleta 🏍️
+Clone do [[Prof. Fábio Magnani ](https://github.com/Prof-Magnani/engenharia-motocicleta)] para execução da atividade avaliativa.
+
 
 ## Descrição da Disciplina  
 Disciplina eletiva do curso de Engenharia Mecânica da Universidade Federal de Pernambuco (UFPE)  
@@ -62,8 +64,8 @@ Este repositório contém:
 
 ## Aulas em Notebooks
 
-- Movimento Longitudinal da Motocicleta - Dinâmica Básica [[colab](https://colab.research.google.com/github/Prof-Magnani/engenharia-motocicleta/blob/main/notebooks/ne-moto-longitudinal-basica.ipynb)] 
-- Movimento Longitudinal da Motocicleta - Normais, Curvas, Fracionamento da Energia e Fatores de Utilização [[colab](https://colab.research.google.com/github/Prof-Magnani/engenharia-motocicleta/blob/main/notebooks/ne-moto-normais-uso-fracionamento.ipynb)] 
+- Movimento Longitudinal da Motocicleta - Dinâmica Básica [[colab](https://colab.research.google.com/github/GuiWatson/TrabalhoMotocicleta/blob/main/notebooks/ne-moto-longitudinal-basica.ipynb)] 
+- Movimento Longitudinal da Motocicleta - Normais, Curvas, Fracionamento da Energia e Fatores de Utilização [[colab](https://colab.research.google.com/github/GuiWatson/TrabalhoMotocicleta/blob/main/notebooks/ne-moto-normais-uso-fracionamento.ipynb)] 
 
 ### Sobre os formatos disponíveis
 
